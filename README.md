@@ -1,3 +1,6 @@
+**This file was downloaded in order to make new changes on.  This readme came with the code.
+Downloading the previous solution code was a step in one of the first pages of the tutorial.
+
 DroidCafeChallenge - Solution Code
 ==================================
 
